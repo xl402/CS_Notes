@@ -1,4 +1,4 @@
-# CS_Notes
+# CS Notes
 Coding notes for ML and algorithms
 * *ML_Notes.md* contains notes taken from Natural Language Processing course and Machine Learning Stanford course
 * Algorithms contains notes taken from Stanford Algorithms course
